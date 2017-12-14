@@ -1,0 +1,40 @@
+form
+{
+    width:40%;
+    margin-left: 25%;
+
+
+}
+
+fieldset
+{
+    border: 2px solid lawngreen;
+    border-radius: 20px 20px 20px 20px;
+    background-color: lightgreen;
+    color: black;
+}
+legend
+{
+    text-align: center;
+}
+
+label
+{
+    width:40%;
+    margin-right: 2%;
+    float:left;
+}
+input
+{
+    width:40%;
+    margin-bottom: 2%;
+    border-radius: 20px 20px 20px 20px;
+}
+
+input[type=submit]
+{
+    width:20%;
+    margin-left: 50%;
+    background-color: lawngreen;
+    color: white;
+}
